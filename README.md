@@ -1,1 +1,1 @@
-# learning_lang_rust
+# Learning language Rust
